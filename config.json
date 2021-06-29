@@ -1,0 +1,4 @@
+﻿{
+    "dbconnection": "mongodb://localhost/user_registration",
+    "secret": "secret"
+}
